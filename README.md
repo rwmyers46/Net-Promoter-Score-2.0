@@ -10,30 +10,30 @@ Although rising in popularity, Net Promoter Scores still rely on traditional sur
 
 #### Applied Skills:
 
-Dataset Joins and Merges
-Feature Engineering
-Big Data Analysis (34+ million rows)
-Amazon Web Services (AWS)
+* Dataset Joins and Merges
+* Feature Engineering
+* Big Data Analysis (34+ million rows)
+* Amazon Web Services (AWS)
 
 #### Languages and Libraries:
 
-Python
-NumPy
-Pandas
-Scikit‐learn
+* Python
+* NumPy
+* Pandas
+* Scikit‐learn
 
 #### Machine Learning Algorithms:
 
-Logistic Regression
-Random Forest
-XGBoost
+* Logistic Regression
+* Random Forest
+* XGBoost
 
 #### Classification Tools/Metrics:
 
-F1 Score
-Precision
-Recall
-Confusion Matrix
+* F1 Score
+* Precision
+* Recall
+* Confusion Matrix
 
 #### Framework and Visualization Tools:
 
