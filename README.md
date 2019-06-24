@@ -12,35 +12,34 @@ Although rising in popularity, Net Promoter Scores still rely on traditional sur
 
 ## Tools
 
-#### Applied Skills:
+#### Pre-processing:
 
-* Dataset Joins and Merges
-* Feature Engineering
-* Big Data Analysis (34+ million rows)
-* Amazon Web Services (AWS)
+* Spacy
+* NLTK
+* Count Vectorizer
+* TF-IDF
 
-#### Languages and Libraries:
+#### Topic Modeling:
 
-* Python
-* NumPy
-* Pandas
-* Scikit‐learn
+* LDA
+* NMF
+* LSA
+* Word2Vec
+* CorEx
 
-#### Machine Learning Algorithms:
+#### Sentiment Analysis:
 
-* Logistic Regression
-* Random Forest
-* XGBoost
+* VADER
 
 #### Classification Tools/Metrics:
 
-* F1 Score
-* Precision
-* Recall
+* Logistic Regression
+* Naive Bayes
+* Precision / Recall
 * Confusion Matrix
 
 #### Framework and Visualization Tools:
 
-* Tableau
+* T-SNE / Bokeh
 * Matplotlib
 * Seaborn
