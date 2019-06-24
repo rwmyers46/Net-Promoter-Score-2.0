@@ -37,6 +37,6 @@ Although rising in popularity, Net Promoter Scores still rely on traditional sur
 
 #### Framework and Visualization Tools:
 
-Tableau
-Matplotlib
-Seaborn
+* Tableau
+* Matplotlib
+* Seaborn
