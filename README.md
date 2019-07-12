@@ -4,7 +4,7 @@ The Net Promoter Score was created by Bain & Co's Fred Reichheld as a metric to 
 
 ![alt text](images/nps-graphic.png)
 
-###### *Image Credit: Wall Street Journal*
+###### *Image: Wall Street Journal*
 
 Although rising in popularity, Net Promoter Scores still rely on traditional surveys, subjecting them to selection biases. Conversely, online reviews inherently increase accuracy by providing both purchase verification and vastly larger sample sizes. This project strived to improve Net Promoter Scores by employing Natural Language Processing and Machine Learning to gauge customer satisfaction from the [Amazon Customer Reviews Dataset](https://s3.amazonaws.com/amazon-reviews-pds/readme.html).
 
