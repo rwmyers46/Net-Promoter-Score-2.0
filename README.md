@@ -2,12 +2,10 @@
 
 The Net Promoter Score was created by Bain & Co's Fred Reichheld as a metric to gauge customer satisifaction and debuted in Harvard Business Review's 2003 article, "One Number You Need to Grow.” According to the [Wall Street Journal](https://www.wsj.com/articles/the-dubious-management-fad-sweeping-corporate-america-11557932084), The Net Promoter Score's correlation with net income has earned management's ear, witnessing a 500% increase in mentions over the past 5 years on S&P 500 companies earnings calls.
 
-<figure>
-  <center>
-    <img src="https://github.com/rwmyers46/Net-Promoter-Score-2.0/blob/master/images/nps-graphic.png" width="500" height="300"/>
-    <figcaption><h6>Image Source: Wall Street Journal </h6></figcaption>
-  </center>
-</figure>
+<p align="center">
+  <img src="https://github.com/rwmyers46/Net-Promoter-Score-2.0/blob/master/images/nps-graphic.png" width="500" height="300"/>
+  <h6>Image Source: Wall Street Journal </h6>
+</p>
 
 Although rising in popularity, Net Promoter Scores still rely on traditional surveys, subjecting them to selection biases. Conversely, online reviews inherently increase accuracy by providing both purchase verification and vastly larger sample sizes. This project strived to improve Net Promoter Scores by employing Natural Language Processing and Machine Learning to gauge customer satisfaction from the [Amazon Customer Reviews Dataset](https://s3.amazonaws.com/amazon-reviews-pds/readme.html).
 
